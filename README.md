@@ -1,6 +1,9 @@
 # 🚀 **The Learning Vault** 🔍📚  
 *A treasure trove of knowledge on API Testing, JMeter, Postman, and beyond!*  
 
+## 🌟 Why This Repository Exists
+I created this space as my personal tech dojo 🏯—a place to sharpen my skills, revisit important concepts, and document my self-learning journey. Whether it’s API testing, performance tuning, automation, or debugging, this repo is my go-to knowledge hub.
+
 ## 🔥 **What’s Inside?**  
 📌 **Manual Testing** – [📄 View Document](https://docs.google.com/document/d/11_U-HblJlNTqHMyrp6v2urTeTY5s72Eiuy868pm6ToA/edit?usp=drive_link)  
 📌 **API Testing** – [📄 View Document](https://docs.google.com/document/d/1Na3s9VB2suGMOZN1vP792_pjfzo9IAWweiFBCZ1mspU/edit?usp=drive_link)  
